@@ -119,7 +119,7 @@ static int carregar_contas(Conta contas[], int *qtd) {
         size_t len = strlen(linha);
         if (len > 0 && linha[len - 1] == '\n') linha[len - 1] = '\0';
 
-        // parsing manual por '|' (mais simples e robusto)
+        // parsing manual por '|'
         char *p1 = strchr(linha, '|');
         if (!p1) break;
         *p1 = '\0';
