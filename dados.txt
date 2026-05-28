@@ -1,9 +1,0 @@
-2
-jaqueline|2530|12421313.00|4
-Conta criada | Saldo: R$ 10000.00
-Saque: R$ 1000.00 | Saldo: R$ 9000.00
-Transferencia de fenguibr: R$ 100000.00 | Saldo: R$ 109000.00
-Deposito: R$ 12312313.00 | Saldo: R$ 12421313.00
-fenguibr|1234|0.00|2
-Conta criada | Saldo: R$ 100000.00
-Transferencia para jaqueline: R$ 100000.00 | Saldo: R$ 0.00
